@@ -1,4 +1,5 @@
-# Nullspace for Standard Notes
+# Willspace for Standard Notes
+> **Fixing a couple too-dark elements of nullspace.**
 > A sleek, pure black theme. Mainly for devices with an AMOLED display, but any one will do.
 
 ## How to install
