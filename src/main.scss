@@ -2,7 +2,7 @@
 
   --foreground-color: #eeeeee;
   --background-color: #000000;
-  --highlight-color: #4554b2;
+  --highlight-color: #7e89cd; /* changed from 4554b2 */
   --border-color: #0f1011;
 
   --sn-component-foreground-color: var(--foreground-color);
@@ -37,7 +37,7 @@
   --sn-stylekit-foreground-color: var(--foreground-color);
   --sn-stylekit-border-color: #000000;
 
-  --sn-stylekit-contrast-background-color: #111111;
+  --sn-stylekit-contrast-background-color: #666666; /* changed from 111111 */
   --sn-stylekit-contrast-foreground-color: #ffffff;
   --sn-stylekit-contrast-border-color: #000000;
 
